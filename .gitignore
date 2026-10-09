@@ -39,3 +39,6 @@ app/samples/sample_people.jpg
 *.key
 .env
 .env.*
+reports/reference_notes.html
+reports/EdgeInspect-AI_Vision_Progress.pdf
+

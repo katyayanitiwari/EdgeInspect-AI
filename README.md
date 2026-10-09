@@ -26,7 +26,7 @@ A laptop prototype for industrial surface defect inspection and quality-control 
 - `inference/` — detection, severity rules, recommendations and inspection logging
 - `app/dashboard.py` — local Gradio dashboard
 - `deployment/` — deployment notes and export details
-- `reports/` — mentor status report, vision progress report and personal reference notes source
+- `reports/` — status report builder and generated mentor status PDF; personal reference notes stay local
 
 ## Run the dashboard on Windows
 
@@ -62,3 +62,4 @@ The trained weights are stored locally and are excluded from Git. Kaggle was use
 7. Keep the completed registration record and verify current official submission requirements and deadlines before final submission.
 
 See `PLAN.md`, `experiments/EXPERIMENTS.md`, and `deployment/EXP-002_ONNX_NOTES.md` for the detailed status and evidence.
+
