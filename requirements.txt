@@ -1,0 +1,6 @@
+numpy==2.4.6
+opencv-python==5.0.0.93
+pillow==12.3.0
+ultralytics==8.4.163
+pyyaml==6.0.3
+gradio==6.28.0

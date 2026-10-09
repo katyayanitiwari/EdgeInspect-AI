@@ -1,0 +1,21 @@
+{
+  "model": "EXP-002 PyTorch FP32",
+  "dataset_split": "NEU-DET held-out test",
+  "images": 270,
+  "imgsz": 320,
+  "batch": 1,
+  "device": "CPU",
+  "P": 0.7117803625027902,
+  "R": 0.7092520478707192,
+  "F1": 0.7105139559858104,
+  "mAP50": 0.7701909017633916,
+  "mAP50_95": 0.4360617371681593,
+  "per_class_AP50": {
+    "crazing": 0.4432527575563493,
+    "inclusion": 0.8828292799263705,
+    "patches": 0.9147489412949297,
+    "pitted_surface": 0.878552601756418,
+    "rolled-in_scale": 0.5509872852763108,
+    "scratches": 0.9507745447699711
+  }
+}

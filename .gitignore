@@ -1,0 +1,41 @@
+# Environment
+.venv/
+__pycache__/
+*.pyc
+
+# Data (regenerate: see README "Reproduce")
+dataset/raw/
+dataset/processed/
+
+# Large binaries (weights, upload bundles) - share via Releases / Kaggle instead
+*.pt
+*.onnx
+*.hef
+*.pte
+deployment/kaggle_upload/dataset/
+deployment/kaggle_upload/kernel/
+deployment/kaggle_upload/output/
+
+# Generated outputs
+inference/output/
+reports/_figs/
+
+# Runtime logs (inspection DB, annotated images)
+logs/
+logs_dashboard.txt
+experiments/*_train_log.txt
+reports/showcase/
+
+# Personal notes (not part of the project)
+RESUME_PROMPT.md
+
+# Local screenshots / debug videos
+runs/
+app/samples/sample_people.jpg
+
+# Local certificates and credentials
+.gradio/
+*.pem
+*.key
+.env
+.env.*

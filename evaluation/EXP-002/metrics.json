@@ -1,0 +1,65 @@
+{
+  "exp_id": "EXP-002",
+  "date": "2026-10-09T21:18:02",
+  "weights": "experiments\\EXP-002\\weights\\best.pt",
+  "model": "yolov8n",
+  "precision_fmt": "FP32",
+  "imgsz": 320,
+  "epochs_run": 100,
+  "accuracy_test_split": {
+    "P": 0.7118,
+    "R": 0.7093,
+    "F1": 0.7105,
+    "mAP50": 0.7702,
+    "mAP50_95": 0.4361,
+    "per_class": {
+      "crazing": {
+        "AP50": 0.4433,
+        "AP50_95": 0.1665
+      },
+      "inclusion": {
+        "AP50": 0.8828,
+        "AP50_95": 0.4724
+      },
+      "patches": {
+        "AP50": 0.9147,
+        "AP50_95": 0.6077
+      },
+      "pitted_surface": {
+        "AP50": 0.8786,
+        "AP50_95": 0.5528
+      },
+      "rolled-in_scale": {
+        "AP50": 0.551,
+        "AP50_95": 0.2442
+      },
+      "scratches": {
+        "AP50": 0.9508,
+        "AP50_95": 0.5728
+      }
+    }
+  },
+  "complexity": {
+    "params": 3012018,
+    "GFLOPs": 2.05,
+    "size_MB": 6.22
+  },
+  "cpu_latency_ms_median": {
+    "preprocess": 0.86,
+    "inference": 34.7,
+    "postprocess": 0.82,
+    "total": 36.65,
+    "wall_clock_incl_file_read": 37.96,
+    "n_images": 100,
+    "batch": 1
+  },
+  "cpu_fps": 27.3,
+  "environment": {
+    "cpu": "Intel64 Family 6 Model 186 Stepping 2, GenuineIntel",
+    "python": "3.11.9",
+    "torch": "2.14.0+cpu",
+    "ultralytics": "8.4.163",
+    "torch_threads": 8
+  },
+  "notes": ""
+}

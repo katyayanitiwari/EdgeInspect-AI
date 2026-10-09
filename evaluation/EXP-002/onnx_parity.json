@@ -1,0 +1,42 @@
+{
+  "source_weights": "experiments\\EXP-002\\weights\\best.pt",
+  "exported_weights": "experiments\\EXP-002\\weights\\best.onnx",
+  "dataset_split": "NEU-DET held-out test",
+  "images": 30,
+  "test_split_images_available": 270,
+  "comparison_limit": 30,
+  "settings": {
+    "imgsz": 320,
+    "confidence": 0.25,
+    "nms_iou": 0.7,
+    "box_match_iou": 0.5,
+    "device": "CPU",
+    "batch": 1
+  },
+  "prediction_agreement": {
+    "pytorch_detection_count": 31,
+    "onnx_detection_count": 31,
+    "same_class_boxes_matched_iou_ge_0_50": 31,
+    "mean_matched_box_iou": 1.0,
+    "mean_absolute_confidence_difference": 0.0,
+    "images_with_equal_detection_counts": 30
+  },
+  "cpu_latency_ms_median": {
+    "pytorch_model_inference": 218.22,
+    "onnx_model_inference": 18.62,
+    "pytorch_call_wall_time": 227.05,
+    "onnx_call_wall_time": 30.91
+  },
+  "model_size_MB": {
+    "pytorch": 6.22,
+    "onnx": 12.12
+  },
+  "environment": {
+    "cpu": "Intel64 Family 6 Model 186 Stepping 2, GenuineIntel",
+    "python": "3.11.9",
+    "torch": "2.14.0+cpu",
+    "onnxruntime": "1.31.0",
+    "ultralytics": "8.4.163"
+  },
+  "notes": "Laptop CPU only. Does not represent Raspberry Pi or Hailo performance."
+}

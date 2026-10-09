@@ -1,0 +1,320 @@
+﻿
+[KDownloading https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8n.pt to 'yolov8n.pt': 1% ──────────── 88.0KB/6.2MB 160.4KB/s 0.2s<39.3s
+[KDownloading https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8n.pt to 'yolov8n.pt': 9% ━─────────── 576.0KB/6.2MB 4.5MB/s 0.3s<1.3s
+[KDownloading https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8n.pt to 'yolov8n.pt': 12% ━─────────── 784.0KB/6.2MB 2.0MB/s 0.4s<2.8s
+[KDownloading https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8n.pt to 'yolov8n.pt': 16% ━╸────────── 1.0/6.2MB 2.1MB/s 0.5s<2.5s
+[KDownloading https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8n.pt to 'yolov8n.pt': 17% ━━────────── 1.1/6.2MB 361.2KB/s 0.6s<14.6s
+[KDownloading https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8n.pt to 'yolov8n.pt': 21% ━━╸───────── 1.3/6.2MB 1.6MB/s 0.8s<3.1s
+[KDownloading https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8n.pt to 'yolov8n.pt': 25% ━━━───────── 1.6/6.2MB 2.6MB/s 0.9s<1.8s
+[KDownloading https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8n.pt to 'yolov8n.pt': 27% ━━━───────── 1.7/6.2MB 499.6KB/s 1.0s<9.3s
+[KDownloading https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8n.pt to 'yolov8n.pt': 30% ━━━╸──────── 1.9/6.2MB 1.1MB/s 1.2s<4.1s
+[KDownloading https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8n.pt to 'yolov8n.pt': 32% ━━━╸──────── 2.0/6.2MB 1.0MB/s 1.3s<4.1s
+[KDownloading https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8n.pt to 'yolov8n.pt': 34% ━━━━──────── 2.2/6.2MB 1.5MB/s 1.4s<2.8s
+[KDownloading https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8n.pt to 'yolov8n.pt': 38% ━━━━╸─────── 2.4/6.2MB 2.1MB/s 1.5s<1.8s
+[KDownloading https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8n.pt to 'yolov8n.pt': 39% ━━━━╸─────── 2.5/6.2MB 562.3KB/s 1.6s<6.9s
+[KDownloading https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8n.pt to 'yolov8n.pt': 42% ━━━━━─────── 2.6/6.2MB 1.7MB/s 1.7s<2.1s
+[KDownloading https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8n.pt to 'yolov8n.pt': 42% ━━━━━─────── 2.7/6.2MB 449.9KB/s 2.0s<8.1s
+[KDownloading https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8n.pt to 'yolov8n.pt': 43% ━━━━━─────── 2.7/6.2MB 495.7KB/s 2.1s<7.3s
+[KDownloading https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8n.pt to 'yolov8n.pt': 45% ━━━━━─────── 2.9/6.2MB 1.2MB/s 2.2s<2.7s
+[KDownloading https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8n.pt to 'yolov8n.pt': 47% ━━━━━╸────── 2.9/6.2MB 609.9KB/s 2.3s<5.5s
+[KDownloading https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8n.pt to 'yolov8n.pt': 49% ━━━━━╸────── 3.1/6.2MB 701.9KB/s 2.4s<4.6s
+[KDownloading https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8n.pt to 'yolov8n.pt': 50% ━━━━━━────── 3.2/6.2MB 662.8KB/s 2.6s<4.8s
+[KDownloading https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8n.pt to 'yolov8n.pt': 52% ━━━━━━────── 3.2/6.2MB 685.3KB/s 2.7s<4.5s
+[KDownloading https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8n.pt to 'yolov8n.pt': 54% ━━━━━━────── 3.4/6.2MB 768.4KB/s 2.8s<3.8s
+[KDownloading https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8n.pt to 'yolov8n.pt': 57% ━━━━━━╸───── 3.6/6.2MB 2.2MB/s 2.9s<1.2s
+[KDownloading https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8n.pt to 'yolov8n.pt': 59% ━━━━━━━───── 3.7/6.2MB 794.4KB/s 3.1s<3.3s
+[KDownloading https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8n.pt to 'yolov8n.pt': 62% ━━━━━━━╸──── 3.9/6.2MB 2.0MB/s 3.2s<1.2s
+[KDownloading https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8n.pt to 'yolov8n.pt': 63% ━━━━━━━╸──── 4.0/6.2MB 720.0KB/s 3.3s<3.2s
+[KDownloading https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8n.pt to 'yolov8n.pt': 67% ━━━━━━━━──── 4.2/6.2MB 1.8MB/s 3.4s<1.1s
+[KDownloading https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8n.pt to 'yolov8n.pt': 68% ━━━━━━━━──── 4.3/6.2MB 730.2KB/s 3.5s<2.7s
+[KDownloading https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8n.pt to 'yolov8n.pt': 70% ━━━━━━━━──── 4.4/6.2MB 775.3KB/s 3.6s<2.4s
+[KDownloading https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8n.pt to 'yolov8n.pt': 73% ━━━━━━━━╸─── 4.6/6.2MB 1.9MB/s 3.7s<0.9s
+[KDownloading https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8n.pt to 'yolov8n.pt': 75% ━━━━━━━━━─── 4.7/6.2MB 760.0KB/s 3.9s<2.1s
+[KDownloading https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8n.pt to 'yolov8n.pt': 77% ━━━━━━━━━─── 4.8/6.2MB 1.1MB/s 4.0s<1.2s
+[KDownloading https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8n.pt to 'yolov8n.pt': 78% ━━━━━━━━━─── 4.9/6.2MB 812.3KB/s 4.1s<1.7s
+[KDownloading https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8n.pt to 'yolov8n.pt': 81% ━━━━━━━━━╸── 5.1/6.2MB 1.3MB/s 4.2s<0.9s
+[KDownloading https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8n.pt to 'yolov8n.pt': 83% ━━━━━━━━━━── 5.2/6.2MB 1.6MB/s 4.3s<0.6s
+[KDownloading https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8n.pt to 'yolov8n.pt': 86% ━━━━━━━━━━── 5.4/6.2MB 846.8KB/s 4.5s<1.1s
+[KDownloading https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8n.pt to 'yolov8n.pt': 89% ━━━━━━━━━━╸─ 5.6/6.2MB 2.2MB/s 4.6s<0.3s
+[KDownloading https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8n.pt to 'yolov8n.pt': 91% ━━━━━━━━━━╸─ 5.7/6.2MB 879.2KB/s 4.7s<0.7s
+[KDownloading https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8n.pt to 'yolov8n.pt': 94% ━━━━━━━━━━━─ 5.9/6.2MB 1.7MB/s 4.8s<0.2s
+[KDownloading https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8n.pt to 'yolov8n.pt': 95% ━━━━━━━━━━━─ 6.0/6.2MB 873.0KB/s 4.9s<0.3s
+[KDownloading https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8n.pt to 'yolov8n.pt': 98% ━━━━━━━━━━━╸ 6.1/6.2MB 1.1MB/s 5.0s<0.1s
+[KDownloading https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8n.pt to 'yolov8n.pt': 100% ━━━━━━━━━━━━ 6.2MB 1.2MB/s 5.1s
+Ultralytics 8.4.163  Python-3.11.9 torch-2.14.0+cpu CPU (13th Gen Intel Core i5-13420H)
+[34m[1mengine\trainer: [0magnostic_nms=False, amp=True, angle=1.0, augment=False, auto_augment=randaugment, batch=16, bgr=0.0, box=7.5, cache=False, cfg=None, channels_last=None, classes=None, close_mosaic=10, cls=0.5, cls_pw=0.0, cls_remap=True, compile=False, conf=None, copy_paste=0.0, copy_paste_mode=flip, cos_lr=False, cutmix=0.0, data=C:\Users\Katyayani\EdgeInspect-AI\training\neu_det.yaml, degrees=0.0, deterministic=True, device=cpu, dfl=1.5, dgrad=0.5, dis=6.0, distill_model=None, dlam=1.0, dlog=1.0, dnn=False, dropout=0.0, dynamic=False, embed=None, epochs=1, erasing=0.4, exist_ok=False, fliplr=0.5, flipud=0.5, format=torchscript, fraction=1.0, freeze=None, hsv_h=0.0, hsv_s=0.0, hsv_v=0.3, imgsz=640, iou=0.7, keras=False, kobj=1.0, line_width=None, lr0=0.01, lrf=0.01, mask_ratio=4, max_det=300, mixup=0.0, mode=train, model=yolov8n.pt, momentum=0.937, mosaic=1.0, multi_scale=0.0, name=SANITY, nbs=64, nms=None, opset=None, optimize=False, optimizer=SGD, overlap_mask=True, patience=25, perspective=0.0, plots=True, pose=12.0, pretrained=True, profile=False, project=C:\Users\Katyayani\EdgeInspect-AI\experiments, quantize=None, rect=False, resume=False, retina_masks=False, rle=1.0, save=True, save_conf=False, save_crop=False, save_dir=C:\Users\Katyayani\EdgeInspect-AI\experiments\SANITY, save_frames=False, save_json=False, save_period=-1, save_txt=False, scale=0.5, seed=42, shear=0.0, show=False, show_boxes=True, show_conf=True, show_labels=True, simplify=True, single_cls=False, source=None, split=val, stream_buffer=False, task=detect, time=None, tracker=tracktrack.yaml, translate=0.1, val=True, verbose=True, vid_stride=1, visualize=False, warmup_bias_lr=0.1, warmup_epochs=3, warmup_momentum=0.8, weight_decay=0.0005, workers=4, workspace=None
+
+[KDownloading https://ultralytics.com/assets/Arial.ttf to 'C:\Users\Katyayani\AppData\Roaming\Ultralytics\Arial.ttf': 7% ╸─────────── 56.0/755.1KB 159.4KB/s 0.1s<4.4s
+[KDownloading https://ultralytics.com/assets/Arial.ttf to 'C:\Users\Katyayani\AppData\Roaming\Ultralytics\Arial.ttf': 24% ━━╸───────── 184.0/755.1KB 1.2MB/s 0.2s<0.5s
+[KDownloading https://ultralytics.com/assets/Arial.ttf to 'C:\Users\Katyayani\AppData\Roaming\Ultralytics\Arial.ttf': 87% ━━━━━━━━━━╸─ 664.0/755.1KB 4.6MB/s 0.3s<0.0s
+[KDownloading https://ultralytics.com/assets/Arial.ttf to 'C:\Users\Katyayani\AppData\Roaming\Ultralytics\Arial.ttf': 100% ━━━━━━━━━━━━ 755.1KB 2.0MB/s 0.4s
+Overriding model.yaml nc=80 with nc=6
+
+                   from  n    params  module                                       arguments                     
+  0                  -1  1       464  ultralytics.nn.modules.conv.Conv             [3, 16, 3, 2]                 
+  1                  -1  1      4672  ultralytics.nn.modules.conv.Conv             [16, 32, 3, 2]                
+  2                  -1  1      7360  ultralytics.nn.modules.block.C2f             [32, 32, 1, True]             
+  3                  -1  1     18560  ultralytics.nn.modules.conv.Conv             [32, 64, 3, 2]                
+  4                  -1  2     49664  ultralytics.nn.modules.block.C2f             [64, 64, 2, True]             
+  5                  -1  1     73984  ultralytics.nn.modules.conv.Conv             [64, 128, 3, 2]               
+  6                  -1  2    197632  ultralytics.nn.modules.block.C2f             [128, 128, 2, True]           
+  7                  -1  1    295424  ultralytics.nn.modules.conv.Conv             [128, 256, 3, 2]              
+  8                  -1  1    460288  ultralytics.nn.modules.block.C2f             [256, 256, 1, True]           
+  9                  -1  1    164608  ultralytics.nn.modules.block.SPPF            [256, 256, 5]                 
+ 10                  -1  1         0  torch.nn.modules.upsampling.Upsample         [None, 2, 'nearest']          
+ 11             [-1, 6]  1         0  ultralytics.nn.modules.conv.Concat           [1]                           
+ 12                  -1  1    148224  ultralytics.nn.modules.block.C2f             [384, 128, 1]                 
+ 13                  -1  1         0  torch.nn.modules.upsampling.Upsample         [None, 2, 'nearest']          
+ 14             [-1, 4]  1         0  ultralytics.nn.modules.conv.Concat           [1]                           
+ 15                  -1  1     37248  ultralytics.nn.modules.block.C2f             [192, 64, 1]                  
+ 16                  -1  1     36992  ultralytics.nn.modules.conv.Conv             [64, 64, 3, 2]                
+ 17            [-1, 12]  1         0  ultralytics.nn.modules.conv.Concat           [1]                           
+ 18                  -1  1    123648  ultralytics.nn.modules.block.C2f             [192, 128, 1]                 
+ 19                  -1  1    147712  ultralytics.nn.modules.conv.Conv             [128, 128, 3, 2]              
+ 20             [-1, 9]  1         0  ultralytics.nn.modules.conv.Concat           [1]                           
+ 21                  -1  1    493056  ultralytics.nn.modules.block.C2f             [384, 256, 1]                 
+ 22        [15, 18, 21]  1    752482  ultralytics.nn.modules.head.Detect           [6, 16, None, [64, 128, 256]] 
+Model summary: 129 layers, 3,012,018 parameters, 3,012,002 gradients, 8.2 GFLOPs
+
+Transferred 319/355 items from pretrained weights
+Freezing layer 'model.22.dfl.conv.weight'
+WARNING [34m[1mtrain: [0mSlow image access detected (ping: 0.10.0 ms, read: 2.11.1 MB/s, size: 15.3 KB). Use local storage instead of remote/mounted storage for better performance. See https://docs.ultralytics.com/guides/model-training-tips
+
+[K[34m[1mtrain: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\train... 1 images, 0 backgrounds, 0 corrupt: 0% ──────────── 1/1259 2.1it/s 0.1s<9:58
+[K[34m[1mtrain: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\train... 11 images, 0 backgrounds, 0 corrupt: 0% ──────────── 11/1259 19.4it/s 0.3s<1:04
+[K[34m[1mtrain: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\train... 38 images, 0 backgrounds, 0 corrupt: 3% ──────────── 38/1259 91.4it/s 0.4s<13.4s
+[K[34m[1mtrain: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\train... 39 images, 0 backgrounds, 0 corrupt: 3% ──────────── 39/1259 66.6it/s 0.5s<18.3s
+[K[34m[1mtrain: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\train... 51 images, 0 backgrounds, 0 corrupt: 4% ──────────── 51/1259 73.7it/s 0.7s<16.4s
+[K[34m[1mtrain: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\train... 57 images, 0 backgrounds, 0 corrupt: 4% ╸─────────── 57/1259 63.7it/s 0.8s<18.9s
+[K[34m[1mtrain: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\train... 79 images, 0 backgrounds, 0 corrupt: 6% ╸─────────── 79/1259 76.5it/s 1.0s<15.4s
+[K[34m[1mtrain: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\train... 92 images, 0 backgrounds, 0 corrupt: 7% ╸─────────── 92/1259 72.0it/s 1.2s<16.2s
+[K[34m[1mtrain: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\train... 103 images, 0 backgrounds, 0 corrupt: 8% ╸─────────── 103/1259 68.2it/s 1.4s<17.0s
+[K[34m[1mtrain: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\train... 124 images, 0 backgrounds, 0 corrupt: 9% ━─────────── 124/1259 95.1it/s 1.5s<11.9s
+[K[34m[1mtrain: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\train... 142 images, 0 backgrounds, 0 corrupt: 11% ━─────────── 142/1259 94.0it/s 1.7s<11.9s
+[K[34m[1mtrain: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\train... 163 images, 0 backgrounds, 0 corrupt: 12% ━╸────────── 163/1259 105.7it/s 1.9s<10.4s
+[K[34m[1mtrain: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\train... 179 images, 0 backgrounds, 0 corrupt: 14% ━╸────────── 179/1259 112.1it/s 2.0s<9.6s
+[K[34m[1mtrain: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\train... 193 images, 0 backgrounds, 0 corrupt: 15% ━╸────────── 193/1259 101.1it/s 2.2s<10.5s
+[K[34m[1mtrain: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\train... 226 images, 0 backgrounds, 0 corrupt: 17% ━━────────── 226/1259 140.3it/s 2.4s<7.4s
+[K[34m[1mtrain: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\train... 227 images, 0 backgrounds, 0 corrupt: 18% ━━────────── 227/1259 100.6it/s 2.5s<10.3s
+[K[34m[1mtrain: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\train... 236 images, 0 backgrounds, 0 corrupt: 18% ━━────────── 236/1259 89.7it/s 2.6s<11.4s
+[K[34m[1mtrain: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\train... 254 images, 0 backgrounds, 0 corrupt: 20% ━━────────── 254/1259 98.3it/s 2.8s<10.2s
+[K[34m[1mtrain: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\train... 276 images, 0 backgrounds, 0 corrupt: 21% ━━╸───────── 276/1259 107.2it/s 2.9s<9.2s
+[K[34m[1mtrain: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\train... 289 images, 0 backgrounds, 0 corrupt: 22% ━━╸───────── 289/1259 104.0it/s 3.1s<9.3s
+[K[34m[1mtrain: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\train... 310 images, 0 backgrounds, 0 corrupt: 24% ━━╸───────── 310/1259 110.4it/s 3.2s<8.6s
+[K[34m[1mtrain: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\train... 332 images, 0 backgrounds, 0 corrupt: 26% ━━━───────── 332/1259 137.8it/s 3.4s<6.7s
+[K[34m[1mtrain: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\train... 342 images, 0 backgrounds, 0 corrupt: 27% ━━━───────── 342/1259 124.7it/s 3.5s<7.4s
+[K[34m[1mtrain: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\train... 354 images, 0 backgrounds, 0 corrupt: 28% ━━━───────── 354/1259 114.3it/s 3.6s<7.9s
+[K[34m[1mtrain: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\train... 373 images, 0 backgrounds, 0 corrupt: 29% ━━━╸──────── 373/1259 123.2it/s 3.7s<7.2s
+[K[34m[1mtrain: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\train... 393 images, 0 backgrounds, 0 corrupt: 31% ━━━╸──────── 393/1259 134.0it/s 3.9s<6.5s
+[K[34m[1mtrain: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\train... 408 images, 0 backgrounds, 0 corrupt: 32% ━━━╸──────── 408/1259 122.5it/s 4.0s<6.9s
+[K[34m[1mtrain: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\train... 416 images, 0 backgrounds, 0 corrupt: 33% ━━━╸──────── 416/1259 106.1it/s 4.1s<7.9s
+[K[34m[1mtrain: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\train... 424 images, 0 backgrounds, 0 corrupt: 33% ━━━━──────── 424/1259 96.5it/s 4.2s<8.6s
+[K[34m[1mtrain: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\train... 441 images, 0 backgrounds, 0 corrupt: 35% ━━━━──────── 441/1259 115.4it/s 4.3s<7.1s
+[K[34m[1mtrain: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\train... 443 images, 0 backgrounds, 0 corrupt: 35% ━━━━──────── 443/1259 86.4it/s 4.4s<9.4s
+[K[34m[1mtrain: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\train... 459 images, 0 backgrounds, 0 corrupt: 36% ━━━━──────── 459/1259 76.9it/s 4.7s<10.4s
+[K[34m[1mtrain: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\train... 474 images, 0 backgrounds, 0 corrupt: 37% ━━━━╸─────── 474/1259 85.8it/s 4.9s<9.1s
+[K[34m[1mtrain: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\train... 481 images, 0 backgrounds, 0 corrupt: 38% ━━━━╸─────── 481/1259 73.4it/s 5.0s<10.6s
+[K[34m[1mtrain: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\train... 513 images, 0 backgrounds, 0 corrupt: 40% ━━━━╸─────── 513/1259 110.7it/s 5.2s<6.7s
+[K[34m[1mtrain: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\train... 516 images, 0 backgrounds, 0 corrupt: 40% ━━━━╸─────── 516/1259 82.7it/s 5.4s<9.0s
+[K[34m[1mtrain: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\train... 535 images, 0 backgrounds, 0 corrupt: 42% ━━━━━─────── 535/1259 92.1it/s 5.5s<7.9s
+[K[34m[1mtrain: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\train... 554 images, 0 backgrounds, 0 corrupt: 44% ━━━━━─────── 554/1259 104.8it/s 5.7s<6.7s
+[K[34m[1mtrain: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\train... 567 images, 0 backgrounds, 0 corrupt: 45% ━━━━━─────── 567/1259 95.1it/s 5.9s<7.3s
+[K[34m[1mtrain: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\train... 583 images, 0 backgrounds, 0 corrupt: 46% ━━━━━╸────── 583/1259 93.5it/s 6.0s<7.2s
+[K[34m[1mtrain: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\train... 605 images, 0 backgrounds, 0 corrupt: 48% ━━━━━╸────── 605/1259 104.3it/s 6.2s<6.3s
+[K[34m[1mtrain: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\train... 610 images, 0 backgrounds, 0 corrupt: 48% ━━━━━╸────── 610/1259 79.0it/s 6.5s<8.2s
+[K[34m[1mtrain: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\train... 623 images, 0 backgrounds, 0 corrupt: 49% ━━━━━╸────── 623/1259 89.2it/s 6.6s<7.1s
+[K[34m[1mtrain: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\train... 642 images, 0 backgrounds, 0 corrupt: 50% ━━━━━━────── 642/1259 88.9it/s 6.8s<6.9s
+[K[34m[1mtrain: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\train... 644 images, 0 backgrounds, 0 corrupt: 51% ━━━━━━────── 644/1259 66.6it/s 6.9s<9.2s
+[K[34m[1mtrain: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\train... 665 images, 0 backgrounds, 0 corrupt: 52% ━━━━━━────── 665/1259 90.3it/s 7.1s<6.6s
+[K[34m[1mtrain: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\train... 678 images, 0 backgrounds, 0 corrupt: 53% ━━━━━━────── 678/1259 101.6it/s 7.2s<5.7s
+[K[34m[1mtrain: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\train... 689 images, 0 backgrounds, 0 corrupt: 54% ━━━━━━╸───── 689/1259 93.0it/s 7.3s<6.1s
+[K[34m[1mtrain: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\train... 701 images, 0 backgrounds, 0 corrupt: 55% ━━━━━━╸───── 701/1259 92.5it/s 7.5s<6.0s
+[K[34m[1mtrain: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\train... 710 images, 0 backgrounds, 0 corrupt: 56% ━━━━━━╸───── 710/1259 87.9it/s 7.6s<6.2s
+[K[34m[1mtrain: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\train... 719 images, 0 backgrounds, 0 corrupt: 57% ━━━━━━╸───── 719/1259 82.0it/s 7.7s<6.6s
+[K[34m[1mtrain: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\train... 734 images, 0 backgrounds, 0 corrupt: 58% ━━━━━━╸───── 734/1259 79.1it/s 7.9s<6.6s
+[K[34m[1mtrain: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\train... 752 images, 0 backgrounds, 0 corrupt: 59% ━━━━━━━───── 752/1259 82.0it/s 8.1s<6.2s
+[K[34m[1mtrain: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\train... 778 images, 0 backgrounds, 0 corrupt: 61% ━━━━━━━───── 778/1259 96.1it/s 8.3s<5.0s
+[K[34m[1mtrain: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\train... 794 images, 0 backgrounds, 0 corrupt: 63% ━━━━━━━╸──── 794/1259 103.6it/s 8.4s<4.5s
+[K[34m[1mtrain: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\train... 820 images, 0 backgrounds, 0 corrupt: 65% ━━━━━━━╸──── 820/1259 128.0it/s 8.6s<3.4s
+[K[34m[1mtrain: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\train... 833 images, 0 backgrounds, 0 corrupt: 66% ━━━━━━━╸──── 833/1259 125.2it/s 8.7s<3.4s
+[K[34m[1mtrain: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\train... 842 images, 0 backgrounds, 0 corrupt: 66% ━━━━━━━━──── 842/1259 99.4it/s 8.9s<4.2s
+[K[34m[1mtrain: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\train... 870 images, 0 backgrounds, 0 corrupt: 69% ━━━━━━━━──── 870/1259 132.2it/s 9.1s<2.9s
+[K[34m[1mtrain: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\train... 888 images, 0 backgrounds, 0 corrupt: 70% ━━━━━━━━──── 888/1259 117.4it/s 9.3s<3.2s
+[K[34m[1mtrain: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\train... 915 images, 0 backgrounds, 0 corrupt: 72% ━━━━━━━━╸─── 915/1259 146.8it/s 9.4s<2.3s
+[K[34m[1mtrain: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\train... 917 images, 0 backgrounds, 0 corrupt: 72% ━━━━━━━━╸─── 917/1259 106.8it/s 9.6s<3.2s
+[K[34m[1mtrain: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\train... 931 images, 0 backgrounds, 0 corrupt: 73% ━━━━━━━━╸─── 931/1259 108.0it/s 9.7s<3.0s
+[K[34m[1mtrain: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\train... 934 images, 0 backgrounds, 0 corrupt: 74% ━━━━━━━━╸─── 934/1259 83.5it/s 9.8s<3.9s
+[K[34m[1mtrain: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\train... 945 images, 0 backgrounds, 0 corrupt: 75% ━━━━━━━━━─── 945/1259 83.1it/s 9.9s<3.8s
+[K[34m[1mtrain: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\train... 958 images, 0 backgrounds, 0 corrupt: 76% ━━━━━━━━━─── 958/1259 84.2it/s 10.1s<3.6s
+[K[34m[1mtrain: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\train... 977 images, 0 backgrounds, 0 corrupt: 77% ━━━━━━━━━─── 977/1259 108.1it/s 10.2s<2.6s
+[K[34m[1mtrain: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\train... 990 images, 0 backgrounds, 0 corrupt: 78% ━━━━━━━━━─── 990/1259 109.2it/s 10.3s<2.5s
+[K[34m[1mtrain: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\train... 1005 images, 0 backgrounds, 0 corrupt: 79% ━━━━━━━━━╸── 1005/1259 108.9it/s 10.5s<2.3s
+[K[34m[1mtrain: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\train... 1020 images, 0 backgrounds, 0 corrupt: 81% ━━━━━━━━━╸── 1020/1259 103.4it/s 10.6s<2.3s
+[K[34m[1mtrain: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\train... 1032 images, 0 backgrounds, 0 corrupt: 81% ━━━━━━━━━╸── 1032/1259 88.6it/s 10.8s<2.6s
+[K[34m[1mtrain: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\train... 1047 images, 0 backgrounds, 0 corrupt: 83% ━━━━━━━━━╸── 1047/1259 97.5it/s 11.0s<2.2s
+[K[34m[1mtrain: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\train... 1058 images, 0 backgrounds, 0 corrupt: 84% ━━━━━━━━━━── 1058/1259 94.1it/s 11.1s<2.1s
+[K[34m[1mtrain: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\train... 1076 images, 0 backgrounds, 0 corrupt: 85% ━━━━━━━━━━── 1076/1259 95.6it/s 11.3s<1.9s
+[K[34m[1mtrain: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\train... 1088 images, 0 backgrounds, 0 corrupt: 86% ━━━━━━━━━━── 1088/1259 95.7it/s 11.4s<1.8s
+[K[34m[1mtrain: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\train... 1105 images, 0 backgrounds, 0 corrupt: 87% ━━━━━━━━━━╸─ 1105/1259 99.4it/s 11.6s<1.5s
+[K[34m[1mtrain: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\train... 1115 images, 0 backgrounds, 0 corrupt: 88% ━━━━━━━━━━╸─ 1115/1259 86.7it/s 11.7s<1.7s
+[K[34m[1mtrain: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\train... 1141 images, 0 backgrounds, 0 corrupt: 90% ━━━━━━━━━━╸─ 1141/1259 111.1it/s 11.9s<1.1s
+[K[34m[1mtrain: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\train... 1156 images, 0 backgrounds, 0 corrupt: 91% ━━━━━━━━━━━─ 1156/1259 115.7it/s 12.0s<0.9s
+[K[34m[1mtrain: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\train... 1186 images, 0 backgrounds, 0 corrupt: 94% ━━━━━━━━━━━─ 1186/1259 135.9it/s 12.2s<0.5s
+[K[34m[1mtrain: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\train... 1193 images, 0 backgrounds, 0 corrupt: 94% ━━━━━━━━━━━─ 1193/1259 114.5it/s 12.3s<0.6s
+[K[34m[1mtrain: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\train... 1201 images, 0 backgrounds, 0 corrupt: 95% ━━━━━━━━━━━─ 1201/1259 99.6it/s 12.4s<0.6s
+[K[34m[1mtrain: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\train... 1223 images, 0 backgrounds, 0 corrupt: 97% ━━━━━━━━━━━╸ 1223/1259 127.9it/s 12.5s<0.3s
+[K[34m[1mtrain: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\train... 1229 images, 0 backgrounds, 0 corrupt: 97% ━━━━━━━━━━━╸ 1229/1259 99.9it/s 12.7s<0.3s
+[K[34m[1mtrain: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\train... 1244 images, 0 backgrounds, 0 corrupt: 98% ━━━━━━━━━━━╸ 1244/1259 98.3it/s 12.8s<0.2s
+[K[34m[1mtrain: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\train... 1259 images, 0 backgrounds, 0 corrupt: 100% ━━━━━━━━━━━━ 1259/1259 97.8it/s 12.9s
+[34m[1mtrain: [0mC:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\images\train\crazing_120.jpg: 1 duplicate labels removed
+[34m[1mtrain: [0mC:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\images\train\inclusion_62.jpg: 1 duplicate labels removed
+[34m[1mtrain: [0mC:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\images\train\patches_198.jpg: 1 duplicate labels removed
+[34m[1mtrain: [0mNew cache created: C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\train.cache
+WARNING [34m[1mval: [0mSlow image access detected (ping: 0.10.0 ms, read: 1.30.3 MB/s, size: 16.9 KB). Use local storage instead of remote/mounted storage for better performance. See https://docs.ultralytics.com/guides/model-training-tips
+
+[K[34m[1mval: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\val... 14 images, 0 backgrounds, 0 corrupt: 5% ╸─────────── 14/270 20.9it/s 0.2s<12.2s
+[K[34m[1mval: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\val... 33 images, 0 backgrounds, 0 corrupt: 12% ━─────────── 33/270 65.5it/s 0.3s<3.6s
+[K[34m[1mval: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\val... 52 images, 0 backgrounds, 0 corrupt: 19% ━━────────── 52/270 77.6it/s 0.5s<2.8s
+[K[34m[1mval: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\val... 59 images, 0 backgrounds, 0 corrupt: 21% ━━╸───────── 59/270 70.3it/s 0.6s<3.0s
+[K[34m[1mval: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\val... 76 images, 0 backgrounds, 0 corrupt: 28% ━━━───────── 76/270 89.5it/s 0.8s<2.2s
+[K[34m[1mval: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\val... 93 images, 0 backgrounds, 0 corrupt: 34% ━━━━──────── 93/270 92.2it/s 0.9s<1.9s
+[K[34m[1mval: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\val... 106 images, 0 backgrounds, 0 corrupt: 39% ━━━━╸─────── 106/270 93.1it/s 1.1s<1.8s
+[K[34m[1mval: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\val... 120 images, 0 backgrounds, 0 corrupt: 44% ━━━━━─────── 120/270 91.3it/s 1.2s<1.6s
+[K[34m[1mval: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\val... 134 images, 0 backgrounds, 0 corrupt: 49% ━━━━━╸────── 134/270 97.8it/s 1.3s<1.4s
+[K[34m[1mval: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\val... 152 images, 0 backgrounds, 0 corrupt: 56% ━━━━━━╸───── 152/270 102.1it/s 1.5s<1.2s
+[K[34m[1mval: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\val... 167 images, 0 backgrounds, 0 corrupt: 61% ━━━━━━━───── 167/270 110.1it/s 1.6s<0.9s
+[K[34m[1mval: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\val... 181 images, 0 backgrounds, 0 corrupt: 67% ━━━━━━━━──── 181/270 102.0it/s 1.8s<0.9s
+[K[34m[1mval: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\val... 195 images, 0 backgrounds, 0 corrupt: 72% ━━━━━━━━╸─── 195/270 90.3it/s 2.0s<0.8s
+[K[34m[1mval: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\val... 210 images, 0 backgrounds, 0 corrupt: 77% ━━━━━━━━━─── 210/270 91.1it/s 2.2s<0.7s
+[K[34m[1mval: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\val... 241 images, 0 backgrounds, 0 corrupt: 89% ━━━━━━━━━━╸─ 241/270 119.5it/s 2.3s<0.2s
+[K[34m[1mval: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\val... 265 images, 0 backgrounds, 0 corrupt: 98% ━━━━━━━━━━━╸ 265/270 138.3it/s 2.5s<0.0s
+[K[34m[1mval: [0mScanning C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\val... 270 images, 0 backgrounds, 0 corrupt: 100% ━━━━━━━━━━━━ 270/270 109.2it/s 2.5s
+[34m[1mval: [0mNew cache created: C:\Users\Katyayani\EdgeInspect-AI\dataset\processed\neu_det\labels\val.cache
+[34m[1moptimizer:[0m SGD(lr=0.01, momentum=0.937) with parameter groups 57 weight(decay=0.0), 64 weight(decay=0.0005), 63 bias(decay=0.0)
+Plotting labels to C:\Users\Katyayani\EdgeInspect-AI\experiments\SANITY\labels.jpg... 
+Using 1259 train, 270 val images for fraction=1.0 at imgsz=640
+Using 0 dataloader workers
+Logging results to [1mC:\Users\Katyayani\EdgeInspect-AI\experiments\SANITY[0m
+Starting training for 1 epochs...
+Closing dataloader mosaic
+
+      Epoch    GPU_mem   box_loss   cls_loss   dfl_loss  Instances       Size
+
+[K        1/1         0G      2.397      4.386      2.394         38        640: 0% ──────────── 0/79  6.7s
+[K        1/1         0G      2.469      4.403      2.508         34        640: 1% ──────────── 1/79 20.5s/it 12.8s<26:36
+[K        1/1         0G      2.521      4.454      2.563         37        640: 2% ──────────── 2/79 12.0s/it 18.9s<15:22
+[K        1/1         0G       2.48      4.497      2.572         29        640: 3% ──────────── 3/79 9.6s/it 25.4s<12:08
+[K        1/1         0G      2.473      4.538      2.546         27        640: 5% ╸─────────── 4/79 8.2s/it 31.5s<10:12
+[K        1/1         0G      2.528      4.515      2.535         35        640: 6% ╸─────────── 5/79 7.4s/it 37.5s<9:04
+[K        1/1         0G      2.547      4.508      2.558         40        640: 7% ╸─────────── 6/79 7.0s/it 43.7s<8:28
+[K        1/1         0G      2.539      4.505      2.547         34        640: 8% ━─────────── 7/79 6.7s/it 49.7s<7:60
+[K        1/1         0G      2.547      4.476      2.565         38        640: 10% ━─────────── 8/79 6.5s/it 55.9s<7:42
+[K        1/1         0G      2.523      4.493      2.547         30        640: 11% ━─────────── 9/79 6.2s/it 1:01<7:13
+[K        1/1         0G      2.484      4.455       2.51         45        640: 12% ━╸────────── 10/79 6.0s/it 1:07<6:56
+[K        1/1         0G      2.488      4.438      2.511         46        640: 13% ━╸────────── 11/79 6.2s/it 1:14<7:04
+[K        1/1         0G      2.475      4.424      2.509         38        640: 15% ━╸────────── 12/79 6.5s/it 1:21<7:16
+[K        1/1         0G      2.462      4.416      2.491         42        640: 16% ━╸────────── 13/79 7.3s/it 1:32<8:04
+[K        1/1         0G      2.449      4.391       2.49         39        640: 17% ━━────────── 14/79 7.5s/it 1:39<8:06
+[K        1/1         0G      2.426      4.389      2.498         29        640: 18% ━━────────── 15/79 8.4s/it 1:51<8:59
+[K        1/1         0G      2.409      4.372       2.48         37        640: 20% ━━────────── 16/79 9.2s/it 2:03<9:37
+[K        1/1         0G      2.397      4.357      2.469         40        640: 21% ━━╸───────── 17/79 9.1s/it 2:12<9:25
+[K        1/1         0G      2.374      4.336      2.447         33        640: 22% ━━╸───────── 18/79 8.7s/it 2:20<8:49
+[K        1/1         0G      2.363      4.342      2.436         30        640: 24% ━━╸───────── 19/79 8.7s/it 2:28<8:39
+[K        1/1         0G      2.341      4.337      2.417         32        640: 25% ━━━───────── 20/79 8.2s/it 2:36<8:06
+[K        1/1         0G      2.336      4.329      2.409         40        640: 26% ━━━───────── 21/79 7.8s/it 2:43<7:35
+[K        1/1         0G      2.335      4.319      2.403         35        640: 27% ━━━───────── 22/79 7.7s/it 2:50<7:18
+[K        1/1         0G      2.333      4.307      2.393         36        640: 29% ━━━───────── 23/79 7.8s/it 2:58<7:16
+[K        1/1         0G      2.308      4.287      2.369         41        640: 30% ━━━╸──────── 24/79 7.4s/it 3:05<6:47
+[K        1/1         0G      2.308      4.285      2.365         39        640: 31% ━━━╸──────── 25/79 7.3s/it 3:12<6:37
+[K        1/1         0G      2.306      4.286      2.361         31        640: 32% ━━━╸──────── 26/79 7.2s/it 3:19<6:23
+[K        1/1         0G        2.3      4.274      2.353         39        640: 34% ━━━━──────── 27/79 7.2s/it 3:26<6:16
+[K        1/1         0G      2.284      4.259       2.34         36        640: 35% ━━━━──────── 28/79 7.2s/it 3:33<6:07
+[K        1/1         0G      2.279      4.242      2.324         37        640: 36% ━━━━──────── 29/79 7.2s/it 3:41<5:60
+[K        1/1         0G      2.262      4.231      2.311         32        640: 37% ━━━━╸─────── 30/79 7.3s/it 3:48<5:57
+[K        1/1         0G      2.251      4.218      2.302         35        640: 39% ━━━━╸─────── 31/79 7.5s/it 3:56<5:59
+[K        1/1         0G      2.249      4.217      2.298         38        640: 40% ━━━━╸─────── 32/79 7.5s/it 4:04<5:55
+[K        1/1         0G      2.238      4.209      2.291         34        640: 41% ━━━━━─────── 33/79 7.7s/it 4:12<5:55
+[K        1/1         0G       2.24      4.204      2.295         33        640: 43% ━━━━━─────── 34/79 7.9s/it 4:20<5:56
+[K        1/1         0G      2.233      4.191      2.289         43        640: 44% ━━━━━─────── 35/79 8.2s/it 4:29<5:60
+[K        1/1         0G      2.228      4.185      2.288         33        640: 45% ━━━━━─────── 36/79 7.9s/it 4:36<5:40
+[K        1/1         0G      2.229      4.182      2.288         33        640: 46% ━━━━━╸────── 37/79 7.6s/it 4:44<5:21
+[K        1/1         0G      2.219       4.17      2.282         35        640: 48% ━━━━━╸────── 38/79 7.5s/it 4:51<5:07
+[K        1/1         0G      2.221      4.165      2.277         36        640: 49% ━━━━━╸────── 39/79 7.5s/it 4:58<5:01
+[K        1/1         0G      2.211      4.155      2.274         28        640: 50% ━━━━━━────── 40/79 7.5s/it 5:06<4:54
+[K        1/1         0G      2.207      4.138      2.267         53        640: 51% ━━━━━━────── 41/79 7.6s/it 5:14<4:50
+[K        1/1         0G      2.198       4.12       2.26         46        640: 53% ━━━━━━────── 42/79 7.6s/it 5:21<4:41
+[K        1/1         0G      2.193      4.112      2.256         37        640: 54% ━━━━━━╸───── 43/79 7.6s/it 5:29<4:32
+[K        1/1         0G      2.192        4.1      2.251         31        640: 55% ━━━━━━╸───── 44/79 7.4s/it 5:36<4:18
+[K        1/1         0G      2.187      4.097      2.247         41        640: 56% ━━━━━━╸───── 45/79 7.3s/it 5:43<4:09
+[K        1/1         0G       2.18      4.081      2.243         31        640: 58% ━━━━━━╸───── 46/79 7.3s/it 5:50<4:01
+[K        1/1         0G      2.176      4.064       2.24         35        640: 59% ━━━━━━━───── 47/79 7.3s/it 5:58<3:55
+[K        1/1         0G      2.174      4.057      2.237         41        640: 60% ━━━━━━━───── 48/79 7.3s/it 6:05<3:45
+[K        1/1         0G      2.169      4.053      2.233         36        640: 62% ━━━━━━━───── 49/79 7.3s/it 6:12<3:38
+[K        1/1         0G      2.166       4.05      2.234         29        640: 63% ━━━━━━━╸──── 50/79 7.2s/it 6:19<3:29
+[K        1/1         0G      2.162      4.041       2.23         32        640: 64% ━━━━━━━╸──── 51/79 7.3s/it 6:27<3:24
+[K        1/1         0G      2.162      4.039      2.231         30        640: 65% ━━━━━━━╸──── 52/79 7.3s/it 6:34<3:16
+[K        1/1         0G      2.158      4.021      2.225         43        640: 67% ━━━━━━━━──── 53/79 7.4s/it 6:42<3:13
+[K        1/1         0G      2.153      4.017      2.219         38        640: 68% ━━━━━━━━──── 54/79 7.4s/it 6:49<3:06
+[K        1/1         0G      2.151      4.012      2.218         33        640: 69% ━━━━━━━━──── 55/79 7.6s/it 6:57<3:03
+[K        1/1         0G      2.154      4.014      2.218         30        640: 70% ━━━━━━━━╸─── 56/79 7.5s/it 7:04<2:53
+[K        1/1         0G      2.153      4.007      2.218         31        640: 72% ━━━━━━━━╸─── 57/79 7.5s/it 7:12<2:46
+[K        1/1         0G      2.151      4.001      2.217         34        640: 73% ━━━━━━━━╸─── 58/79 7.5s/it 7:19<2:37
+[K        1/1         0G      2.145      3.993      2.214         31        640: 74% ━━━━━━━━╸─── 59/79 7.5s/it 7:27<2:31
+[K        1/1         0G      2.136      3.982      2.208         36        640: 75% ━━━━━━━━━─── 60/79 7.5s/it 7:34<2:23
+[K        1/1         0G      2.133      3.974      2.205         40        640: 77% ━━━━━━━━━─── 61/79 7.5s/it 7:42<2:15
+[K        1/1         0G      2.133      3.971      2.203         39        640: 78% ━━━━━━━━━─── 62/79 7.6s/it 7:50<2:09
+[K        1/1         0G      2.134      3.968      2.204         46        640: 79% ━━━━━━━━━╸── 63/79 7.5s/it 7:57<2:01
+[K        1/1         0G      2.132      3.963      2.202         40        640: 81% ━━━━━━━━━╸── 64/79 7.5s/it 8:05<1:52
+[K        1/1         0G      2.132      3.958        2.2         36        640: 82% ━━━━━━━━━╸── 65/79 7.5s/it 8:12<1:44
+[K        1/1         0G      2.129      3.948      2.197         38        640: 83% ━━━━━━━━━━── 66/79 7.4s/it 8:19<1:36
+[K        1/1         0G      2.126      3.938      2.193         37        640: 84% ━━━━━━━━━━── 67/79 7.4s/it 8:27<1:29
+[K        1/1         0G      2.122      3.926      2.189         39        640: 86% ━━━━━━━━━━── 68/79 7.2s/it 8:33<1:19
+[K        1/1         0G      2.119      3.919      2.186         44        640: 87% ━━━━━━━━━━── 69/79 7.2s/it 8:41<1:12
+[K        1/1         0G      2.115      3.914      2.183         37        640: 88% ━━━━━━━━━━╸─ 70/79 7.3s/it 8:48<1:05
+[K        1/1         0G      2.111      3.909       2.18         37        640: 89% ━━━━━━━━━━╸─ 71/79 7.4s/it 8:56<59.6s
+[K        1/1         0G       2.11      3.906      2.181         29        640: 91% ━━━━━━━━━━╸─ 72/79 7.5s/it 9:03<52.3s
+[K        1/1         0G      2.107      3.901       2.18         31        640: 92% ━━━━━━━━━━━─ 73/79 7.5s/it 9:11<44.7s
+[K        1/1         0G      2.108      3.897      2.177         34        640: 93% ━━━━━━━━━━━─ 74/79 7.4s/it 9:18<36.8s
+[K        1/1         0G      2.108      3.891      2.177         36        640: 94% ━━━━━━━━━━━─ 75/79 7.4s/it 9:26<29.7s
+[K        1/1         0G      2.108      3.886      2.176         37        640: 96% ━━━━━━━━━━━╸ 76/79 7.1s/it 9:32<21.4s
+[K        1/1         0G       2.11       3.88      2.178         33        640: 97% ━━━━━━━━━━━╸ 77/79 7.1s/it 9:39<14.1s
+[K        1/1         0G      2.106      3.877      2.178         20        640: 98% ━━━━━━━━━━━╸ 78/79 6.2s/it 9:44<6.2s
+[K        1/1         0G      2.106      3.877      2.178         20        640: 100% ━━━━━━━━━━━━ 79/79 7.4s/it 9:44
+
+[K                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 11% ━─────────── 1/9 18.5s/it 5.6s<2:28
+[K                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 22% ━━╸───────── 2/9 11.1s/it 11.3s<1:17
+[K                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 33% ━━━━──────── 3/9 8.5s/it 16.8s<51.2s
+[K                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 44% ━━━━━─────── 4/9 7.4s/it 22.5s<37.0s
+[K                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 55% ━━━━━━╸───── 5/9 6.7s/it 28.0s<26.9s
+[K                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 66% ━━━━━━━━──── 6/9 6.3s/it 33.5s<18.9s
+[K                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 77% ━━━━━━━━━─── 7/9 6.1s/it 39.1s<12.1s
+[K                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 88% ━━━━━━━━━━╸─ 8/9 5.9s/it 44.7s<5.9s
+[K                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100% ━━━━━━━━━━━━ 9/9 5.2s/it 47.2s
+                   all        270        670      0.452     0.0373     0.0404      0.013
+
+1 epochs completed in 0.176 hours.
+Optimizer stripped from C:\Users\Katyayani\EdgeInspect-AI\experiments\SANITY\weights\last.pt, 6.2MB
+Optimizer stripped from C:\Users\Katyayani\EdgeInspect-AI\experiments\SANITY\weights\best.pt, 6.2MB
+
+Validating C:\Users\Katyayani\EdgeInspect-AI\experiments\SANITY\weights\best.pt...
+Ultralytics 8.4.163  Python-3.11.9 torch-2.14.0+cpu CPU (13th Gen Intel Core i5-13420H)
+Model summary (fused): 72 layers, 3,006,818 parameters, 0 gradients, 8.1 GFLOPs
+
+[K                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 11% ━─────────── 1/9 12.0s/it 3.6s<1:36
+[K                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 22% ━━╸───────── 2/9 7.3s/it 7.4s<50.8s
+[K                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 33% ━━━━──────── 3/9 5.7s/it 11.2s<34.3s
+[K                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 44% ━━━━━─────── 4/9 4.8s/it 14.7s<24.1s
+[K                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 55% ━━━━━━╸───── 5/9 4.3s/it 18.2s<17.2s
+[K                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 66% ━━━━━━━━──── 6/9 4.0s/it 21.5s<11.9s
+[K                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 77% ━━━━━━━━━─── 7/9 3.9s/it 25.1s<7.7s
+[K                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 88% ━━━━━━━━━━╸─ 8/9 3.8s/it 28.7s<3.8s
+[K                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100% ━━━━━━━━━━━━ 9/9 3.4s/it 30.5s
+                   all        270        670      0.452     0.0373     0.0402     0.0129
+               crazing         45        107          1          0    0.00691    0.00142
+             inclusion         58        170      0.117     0.0353     0.0226    0.00603
+               patches         52        142      0.106      0.155     0.0828     0.0292
+        pitted_surface         45         68          0          0     0.0466     0.0182
+       rolled-in_scale         45         93          1          0    0.00452    0.00115
+             scratches         45         90      0.489     0.0333     0.0776     0.0211
+Speed: 2.1ms preprocess, 92.5ms inference, 0.0ms loss, 7.8ms postprocess per image
+Results saved to [1mC:\Users\Katyayani\EdgeInspect-AI\experiments\SANITY[0m

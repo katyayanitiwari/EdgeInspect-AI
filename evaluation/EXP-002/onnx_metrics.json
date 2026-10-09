@@ -1,0 +1,21 @@
+{
+  "model": "EXP-002 ONNX FP32",
+  "dataset_split": "NEU-DET held-out test",
+  "images": 270,
+  "imgsz": 320,
+  "batch": 1,
+  "device": "CPU / ONNX Runtime",
+  "P": 0.6806181983189715,
+  "R": 0.7337754133369742,
+  "F1": 0.7061979008961407,
+  "mAP50": 0.7559267206162831,
+  "mAP50_95": 0.42083232968854134,
+  "per_class_AP50": {
+    "crazing": 0.39694741199568706,
+    "inclusion": 0.8800764906658899,
+    "patches": 0.9003549327528277,
+    "pitted_surface": 0.8753155631268864,
+    "rolled-in_scale": 0.5478724477817943,
+    "scratches": 0.9349934773746135
+  }
+}
