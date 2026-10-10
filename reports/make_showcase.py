@@ -49,8 +49,9 @@ DONE = [
     ("Inference", "Image / folder / webcam inference with annotated output and JSON reports", "inference/detect.py"),
     ("Advisor", "Rule-based QC recommendation text (placeholder with the same interface Llama will use)", "inference/advisor.py"),
     ("Logging", "Every inspection stored in a local SQLite database", "inference/inspection_log.py"),
-    ("Dashboard", "Offline laptop dashboard: upload or webcam, detections, severity, recommendation, history and stats",
-     "app/dashboard.py"),
+    ("Dashboard", "Laptop Gradio app: image/webcam and video inspection, QR/barcode reading, numbered detections, severity advice and SQLite history",
+     "app/dashboard.py, inference/inspection_log.py"),
+    ("Public demo", "Stable Tailscale Funnel URL is live while the laptop is awake and online; Windows sign-in startup is configured", "https://laptop-46vn7dls.tail278ad4.ts.net"),
     ("Cloud training", "Kaggle GPU training set up and EXP-001 result downloaded",
      "scripts/make_kaggle_bundle.py, scripts/kaggle_run.py"),
     ("Project", "Git repository, 15-day plan, experiment log, official challenge facts, progress reports",
@@ -74,7 +75,7 @@ LEFT = [
     ("Application", "Dashboard on the Pi with live camera view", "todo", "Hardware"),
     ("Benchmarks", "Latency, FPS, memory and power on the Pi (CPU, and NPU if used); measured values only", "todo", "Pipeline on the Pi"),
     ("Submission", "Team registration completed (confirmed by project owner)", "done", "Keep the registration confirmation for project records"),
-    ("Submission", "Publish the source code on GitHub", "todo", "A GitHub account"),
+    ("Submission", "Source code published on GitHub", "done", "https://github.com/katyayanitiwari/EdgeInspect-AI"),
     ("Submission", "Technical report and demonstration video", "todo", "Results from the steps above"),
     ("Submission", "Phase 1 submission", "todo", "Due 30 Nov 2026"),
 ]
@@ -201,7 +202,7 @@ def build():
         ("Defect detection", "complete" if epochs_done >= TOTAL_EPOCHS else "training", f"YOLOv8n, 6 NEU-DET classes. {epochs_done} of {TOTAL_EPOCHS} epochs done."),
         ("Severity engine", "working", "Rules per class: box area vs train-split median and 90th percentile, plus confidence."),
         ("QC advisor", "placeholder", "Rule-based text now. Llama via ExecuTorch (required by PS5) replaces it."),
-        ("Dashboard + log", "working", "Local Gradio dashboard, every inspection stored in SQLite."),
+        ("Dashboard + log", "working", "Laptop Gradio app with image/video inspection, QR/barcode reading, inspection IDs and SQLite history. Public link requires the laptop to stay awake and online."),
         ("Edge device", "planned", "Raspberry Pi 5 (CPU; AI HAT+ optional). Not started, hardware not yet confirmed."),
     ]
     chip = {"working": "Working on laptop", "training": "Training now", "complete": "Training complete", "placeholder": "Placeholder", "planned": "Planned"}
@@ -341,7 +342,8 @@ footer{border-top:1px solid var(--line);padding-top:14px;font-size:13px;color:va
   <h1>EdgeInspect-AI</h1>
   <p class="lede">Real-time industrial defect detection and quality-control assistant for edge devices. A camera image goes through a defect detector, a severity engine and a QC advisor, and every inspection is logged, with no cloud.</p>
   <div class="plate"><span>Updated <b>%%UPDATED%%</b></span><span>Model on this page <b>%%MODEL%%</b></span><span>Stage <b>laptop prototype</b></span></div>
-  <div class="plate"><span>Status website <b>https://katyayanitiwari.github.io/edgeinspect-ai-site/</b></span><!--DEMO--></div>
+  <div class="plate"><span>Status website <b><a href="https://katyayanitiwari.github.io/edgeinspect-ai-site/">GitHub Pages</a></b></span><!--DEMO--></div>
+  <div class="plate"><span>Live dashboard <b><a href="https://laptop-46vn7dls.tail278ad4.ts.net">Open the laptop demo</a></b></span><span>Available while the laptop is awake and online</span></div>
 </header>
 
 <section aria-label="Status">
@@ -405,7 +407,7 @@ footer{border-top:1px solid var(--line);padding-top:14px;font-size:13px;color:va
 
 <section>
   <div class="section-head"><h2>What is left to be done</h2>
-  <p>The full remaining scope for Phase 1 (submission due 30 Nov 2026). Blocked items need an input from the team before work can start.</p></div>
+  <p>The remaining work for Phase 1 (submission due 30 Nov 2026 per the <a href="https://arm-education.github.io/Arm-Developer-Labs/Bharat_AI_SoC_2026_27.html">official challenge page</a>). Blocked items need an input from the team before work can start.</p></div>
   <div class="panel tablewrap"><table class="plan"><thead><tr><th>Area</th><th>Task</th><th>Status</th><th>Needs</th></tr></thead>
   <tbody>%%LEFT%%</tbody></table></div>
 </section>
@@ -487,6 +489,11 @@ h2,.section-head{break-after:avoid}
 .two{grid-template-columns:1fr 1fr}
 details summary{list-style:none;color:var(--ink)}
 details summary::-webkit-details-marker{display:none}
+.chart-panel details{display:none}
+.sample details{display:none}
+.sample img{height:125px;object-fit:cover}
+.sample-body{padding:6px}
+.mini td,.mini th{padding:2px 3px}
 </style>"""
 EDGE = Path(r"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe")
 PDF_OUT = ROOT / "reports" / "EdgeInspect-AI_Project_Status.pdf"

@@ -2,9 +2,11 @@
 
 A laptop prototype for industrial surface defect inspection and quality-control advice, built for Bharat AI-SoC Challenge 2026–27, PS5 (Manufacturing & Industry 4.0). The current vision model detects six NEU-DET steel-surface defect classes. The dashboard runs locally and records inspections in SQLite.
 
-**Current status (9 Oct 2026):** EXP-001, EXP-002 and EXP-003 training and held-out test evaluation are complete. EXP-002 (YOLOv8n, 320 px) is the dashboard model because it offers a useful accuracy/CPU-speed trade-off for the laptop prototype. An FP32 ONNX export was evaluated on the same test split; it scored slightly lower than its PyTorch source, so the dashboard continues to use `best.pt`. No Raspberry Pi, Hailo or ExecuTorch deployment has been verified.
+**Current status (10 Oct 2026):** EXP-001, EXP-002 and EXP-003 each completed 100 training epochs and held-out test evaluation. EXP-002 (YOLOv8n, 320 px) remains the laptop dashboard model because it measured 0.7702 test mAP50, 0.4361 mAP50-95 and 36.65 ms median CPU total per image (27.3 FPS). FP32 ONNX was evaluated but scored lower, so the dashboard stays on PyTorch best.pt. The laptop Gradio dashboard now has image/webcam and video inspection, QR/barcode reading, severity recommendations, numbered inspection records and SQLite history. The public dashboard runs from this laptop through Tailscale Funnel. Raspberry Pi, Hailo and ExecuTorch results are not yet verified.
 
-**Public project status:** [Open the status website](https://katyayanitiwari.github.io/edgeinspect-ai-site/) · Mentor PDF and personal notes PDF are in `C:\Users\Katyayani\OneDrive\Desktop\EdgeInspect-AI-code`.
+**GitHub source:** [katyayanitiwari/EdgeInspect-AI](https://github.com/katyayanitiwari/EdgeInspect-AI)  
+**Public project status:** [Open the status website](https://katyayanitiwari.github.io/edgeinspect-ai-site/) · Mentor PDF and personal notes PDF are in C:\Users\Katyayani\OneDrive\Desktop\EdgeInspect-AI-code.  
+**Live dashboard:** [Open EdgeInspect-AI](https://laptop-46vn7dls.tail278ad4.ts.net) · Runs on this laptop; it must be awake, online, and signed in for the public link to work.
 
 ## Measured model comparison
 
@@ -28,16 +30,18 @@ A laptop prototype for industrial surface defect inspection and quality-control 
 - `deployment/` — deployment notes and export details
 - `reports/` — status report builder and generated mentor status PDF; personal reference notes stay local
 
-## Run the dashboard on Windows
+## Live dashboard
 
-From PowerShell:
+The public dashboard URL is [https://laptop-46vn7dls.tail278ad4.ts.net](https://laptop-46vn7dls.tail278ad4.ts.net). It is served from this laptop using Tailscale Funnel. The dashboard is set to start when you sign in to Windows. Keep the laptop awake and connected to the internet; sleep or shutdown makes the link temporarily unavailable. Tailscale Funnel is configured to resume in the background after a restart. Anyone with the public link can open the dashboard.
 
-```powershell
-cd C:\Users\Katyayani\EdgeInspect-AI
-.\.venv\Scripts\python.exe app\dashboard.py
-```
+For direct local use, open http://127.0.0.1:7860. If the dashboard is not running, start it in PowerShell:
 
-Open `http://127.0.0.1:7860` if the browser does not open automatically. Choose an image from the sample section or upload one, then select **Inspect**. Press **Ctrl+C** in PowerShell to stop the dashboard. The app uses EXP-002 `best.pt` when that file is present and saves inspection history locally in `logs/inspections.db`.
+<pre>cd C:\Users\Katyayani\EdgeInspect-AI
+.\.venv\Scripts\python.exe app\dashboard.py</pre>
+
+Choose a sample or upload an image/video, then select <b>Inspect</b>. Image inference and QR/barcode decoding run on the laptop. Video inspection samples frames at about one frame per second. Inspection history is stored locally in logs/inspections.db. Use Ctrl+C in the PowerShell window only if you started the app manually.
+
+The separate project status page is <a href="https://katyayanitiwari.github.io/edgeinspect-ai-site/">https://katyayanitiwari.github.io/edgeinspect-ai-site/</a>; it is hosted on GitHub Pages and does not depend on this laptop.
 
 ## Reproduce training and evaluation
 
@@ -59,7 +63,7 @@ The trained weights are stored locally and are excluded from Git. Kaggle was use
 4. Verify the Llama-family advisor and ExecuTorch path on the target device; the current advisor is rule-based.
 5. Treat Hailo AI HAT+ as optional until hardware and supported conversion/runtime versions are verified.
 6. Complete end-to-end offline validation, measured benchmarks, report and demonstration video.
-7. Keep the completed registration record and verify current official submission requirements and deadlines before final submission.
+7. Registration is complete and the source repo is on GitHub. Finish the technical report and demo video, then verify the submission checklist before Phase 1.
 
 See `PLAN.md`, `experiments/EXPERIMENTS.md`, and `deployment/EXP-002_ONNX_NOTES.md` for the detailed status and evidence.
 

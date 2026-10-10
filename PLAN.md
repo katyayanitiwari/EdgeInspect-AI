@@ -15,14 +15,17 @@ end-to-end benchmarks, report, slides, demo video.
 - Hailo compilation needs an x86 Linux environment (WSL2 on this laptop or a Linux PC); set up on Day 3.
 - Official deadline and judging criteria to be checked on the challenge website.
 
-## Current status update — 9 Oct 2026
+## Current status update — 10 Oct 2026
 
-- Vision training and held-out test evaluation are complete for EXP-001 (YOLOv8n 640), EXP-002 (YOLOv8n 320) and EXP-003 (YOLO11n 640).
-- EXP-002 is the current laptop dashboard model: test mAP50 0.7702, mAP50-95 0.4361, median laptop CPU total 36.65 ms/image (27.3 FPS), as recorded by `evaluation/evaluate.py`.
-- EXP-002 FP32 ONNX export and 270-image evaluation are complete. ONNX test mAP50 0.7559 and mAP50-95 0.4208, so it is not replacing the PyTorch model in the dashboard. These results are on the laptop CPU only.
-- Challenge registration: complete, as confirmed by the project owner.
-- Raspberry Pi, camera, AI HAT+/Hailo, and Llama + ExecuTorch work remain unverified. Hardware availability has not been recorded.
-- The original 15-day schedule below is a plan; re-plan the remaining work from the current date and verify challenge dates from official sources before relying on them.
+- Training and held-out test evaluation are complete for EXP-001 (YOLOv8n, 640), EXP-002 (YOLOv8n, 320) and EXP-003 (YOLO11n, 640), each trained for 100 epochs.
+- EXP-002 is the current laptop dashboard model: test mAP50 0.7702, mAP50-95 0.4361, median laptop CPU total 36.65 ms/image and 27.3 FPS. These figures are laptop measurements on the 270-image held-out split.
+- EXP-002 FP32 ONNX export and 270-image evaluation are complete. Its test mAP50 0.7559 and mAP50-95 0.4208 were below the PyTorch checkpoint, so the dashboard still uses PyTorch best.pt. No Pi or Hailo results are implied by this comparison.
+- The dashboard accepts images/webcam and video, includes sample steel-defect and QR/barcode demos, reads QR/barcode data, gives rule-based severity/QC advice, assigns inspection numbers and records history in SQLite.
+- Public laptop dashboard: https://laptop-46vn7dls.tail278ad4.ts.net. Tailscale Funnel is enabled and configured in the background; the dashboard is set to start at Windows sign-in. The laptop must be awake and connected to the internet for the public link to respond.
+- GitHub source repository: https://github.com/katyayanitiwari/EdgeInspect-AI. Public project status page: https://katyayanitiwari.github.io/edgeinspect-ai-site/.
+- Challenge registration: complete, as confirmed by the project owner. Phase 1 submission is listed as 30 Nov 2026 on the [official challenge page](https://arm-education.github.io/Arm-Developer-Labs/Bharat_AI_SoC_2026_27.html); check the live page again before submitting.
+- Raspberry Pi, Camera Module 3 availability, Llama + ExecuTorch, and target-device performance remain unverified. AI HAT+/Hailo is optional in the current challenge description and remains unverified.
+- The original 15-day schedule is historical. Use the remaining work list below, not the original day numbering, to plan from 10 Oct.
 
 ## Tracks
 - **A — Model** (training on Kaggle GPU)
@@ -33,10 +36,10 @@ end-to-end benchmarks, report, slides, demo video.
 
 | Day | Track A — Model | Track B — Hardware & data | Track C — Code |
 |---|---|---|---|
-| 1 | [ ] EXP-001 on Kaggle (YOLOv8n, 640) | [ ] Order Pi 5 (8 GB), Camera Module 3, AI HAT+, 27 W PSU, active cooler, microSD | [x] Severity engine (rules per defect class) — `inference/severity.py`, tests pass |
-| 2 | [ ] Evaluate EXP-001; error analysis; EXP-002 (YOLOv8n, 320) + EXP-003 (YOLO11n, 640) on Kaggle | [ ] Collect real parts: defective + clean | [x] Laptop inference script (image/webcam → boxes → severity) — `inference/detect.py`, done Day 1 |
-| 3 | [ ] Evaluate EXP-002/003; pick final model + image size | [ ] Set up lighting + fixed camera position | [ ] WSL2 + Ubuntu setup for Hailo toolchain; Llama + ExecuTorch export attempt |
-| 4 | [ ] ONNX export; FP32 / FP16 / INT8 benchmark on laptop | [ ] Capture custom images (target 300–500) | [ ] Labelling workflow (model pre-labels, manual correction) |
+| 1 | [x] EXP-001 training and evaluation complete (YOLOv8n, 640) | [ ] Order Pi 5 (8 GB), Camera Module 3, AI HAT+, 27 W PSU, active cooler, microSD | [x] Severity engine (rules per defect class) — `inference/severity.py`, tests pass |
+| 2 | [x] EXP-001/002/003 training and evaluation complete; qualitative error review remains | [ ] Collect real parts: defective + clean | [x] Laptop inference script (image/webcam → boxes → severity) — `inference/detect.py`, done Day 1 |
+| 3 | [x] Evaluated EXP-002/003 and selected EXP-002 for the laptop dashboard | [ ] Set up lighting + fixed camera position | [ ] WSL2 + Ubuntu setup for Hailo toolchain; Llama + ExecuTorch export attempt |
+| 4 | [~] FP32 ONNX export/evaluation complete; FP16/INT8 and target-device checks remain | [ ] Capture custom images (target 300–500) | [ ] Labelling workflow (model pre-labels, manual correction) |
 | 5 | [ ] Hailo compile attempt (ONNX → HEF, INT8 calibration) | [ ] Label custom images | [ ] QC prompt design for Llama |
 | 6 | [ ] Fine-tune on custom data (EXP-004) on Kaggle | [ ] Finish labelling | [x] Inspection logging (SQLite) — `inference/inspection_log.py`, done Day 1 |
 | 7 | [ ] Evaluate EXP-004; recompile HEF for final model | [ ] Pi OS setup, camera + AI HAT+ test | [ ] Pi install script |
